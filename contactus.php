@@ -13,16 +13,14 @@
 <SCRIPT LANGUAGE="JavaScript" SRC="javascript/JSFX_Mouse.js"></SCRIPT>
 <SCRIPT LANGUAGE="JavaScript" SRC="javascript/JSFX_TextFlag.js"></SCRIPT>    
  
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  
-    <script src="js/bootstrap.min.js"></script>
+    
 <SCRIPT LANGUAGE="JavaScript">
 function JSFX_StartEffects()
 {
   JSFX.MakeTextFlag("AVALLON", "lightcyan", "Arial", 4);
 }
 </SCRIPT>
-
+saya cantik
   </head>
  <style type="text/css">
   .body{
