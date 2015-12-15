@@ -9,9 +9,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="bootstrap.css" rel="stylesheet">
 
-<SCRIPT LANGUAGE="JavaScript" SRC="javascript/JSFX_Layer.js"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="javascript/JSFX_Mouse.js"></SCRIPT>
-<SCRIPT LANGUAGE="JavaScript" SRC="javascript/JSFX_TextFlag.js"></SCRIPT>    
+<SCRIPT LANGPT>    
  
     
 <SCRIPT LANGUAGE="JavaScript">
@@ -39,7 +37,9 @@ saya cantik
   padding-left:5px;
   padding-right:5px;
  }
-
+fontname{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+      font-size: "15px"
   #fonta{
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-color:color:black;
